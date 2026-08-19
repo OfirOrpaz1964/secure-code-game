@@ -1,0 +1,14 @@
+# Repository control plane
+/.github/                  @OfirOrpaz1964
+
+# GitHub Actions / CI
+/.github/workflows/        @OfirOrpaz1964
+
+# Dependency automation
+/.github/dependabot.yml    @OfirOrpaz1964
+
+# Infrastructure / deployment
+/infra/                    @OfirOrpaz1964
+/terraform/                @OfirOrpaz1964
+/Dockerfile                @OfirOrpaz1964
+/docker-compose.yml        @OfirOrpaz1964
